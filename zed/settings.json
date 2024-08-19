@@ -1,0 +1,147 @@
+{
+  "tab_size": 2,
+  "telemetry": { "diagnostics": false, "metrics": false },
+  "features": { "copilot": false },
+  "show_copilot_suggestions": false,
+  "cursor_blink": false,
+  "relative_line_numbers": true,
+  "vim_mode": true,
+  "ui_font_size": 16,
+  "buffer_font_size": 16,
+  "scrollbar": { "show": "never" },
+  "toolbar": { "breadcrumbs": true, "quick_actions": false },
+  "preferred_line_length": 120,
+  "soft_wrap": "preferred_line_length",
+  "vim": {
+    "use_system_clipboard": "always",
+    "use_multiline_find": true
+  },
+  "vertical_scroll_margin": 0,
+  "theme": {
+    "mode": "dark",
+    "light": "One Light",
+    "dark": "Base16 Black Metal (Burzum)"
+  },
+  "experimental.theme_overrides": {
+    "syntax": {
+      "comment": {
+        "color": "#14b6e3"
+        // "font_style": "italic"
+      },
+      "attribute": {
+        "color": "#ffffff"
+      },
+      "boolean": {
+        "color": "#ffffff"
+      },
+      "comment.doc": {
+        "color": "#ffffff"
+      },
+      "constant": {
+        "color": "#ffffff"
+      },
+      "constructor": {
+        "color": "#ffffff"
+      },
+      "embedded": {
+        "color": "#ffffff"
+      },
+      "emphasis": {
+        "color": "#ffffff"
+      },
+      "emphasis.strong": {
+        "color": "#ffffff"
+      },
+      "enum": {
+        "color": "#ffffff"
+      },
+      "function": {
+        "color": "#ffffff"
+      },
+      "hint": {
+        "color": "#ffffff"
+      },
+      "keyword": {
+        "color": "#ffffff"
+      },
+      "label": {
+        "color": "#ffffff"
+      },
+      "link_text": {
+        "color": "#ffffff"
+      },
+      "link_uri": {
+        "color": "#ffffff"
+      },
+      "number": {
+        "color": "#ffffff"
+      },
+      "operator": {
+        "color": "#ffffff"
+      },
+      "predictive": {
+        "color": "#ffffff"
+      },
+      "preproc": {
+        "color": "#ffffff"
+      },
+      "primary": {
+        "color": "#ffffff"
+      },
+      "property": {
+        "color": "#ffffff"
+      },
+      "punctuation": {
+        "color": "#ffffff"
+      },
+      "punctuation.bracket": {
+        "color": "#ffffff"
+      },
+      "punctuation.delimiter": {
+        "color": "#ffffff"
+      },
+      "punctuation.list_marker": {
+        "color": "#ffffff"
+      },
+      "punctuation.special": {
+        "color": "#ffffff"
+      },
+      "string": {
+        "color": "#ffffff"
+      },
+      "string.escape": {
+        "color": "#ffffff"
+      },
+      "string.regex": {
+        "color": "#ffffff"
+      },
+      "string.special": {
+        "color": "#ffffff"
+      },
+      "string.special.symbol": {
+        "color": "#ffffff"
+      },
+      "tag": {
+        "color": "#ffffff"
+      },
+      "text.literal": {
+        "color": "#ffffff"
+      },
+      "title": {
+        "color": "#ffffff"
+      },
+      "type": {
+        "color": "#ffffff"
+      },
+      "variable": {
+        "color": "#ffffff"
+      },
+      "variable.special": {
+        "color": "#ffffff"
+      },
+      "variant": {
+        "color": "#ffffff"
+      }
+    }
+  }
+}
