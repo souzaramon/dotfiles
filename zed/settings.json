@@ -1,4 +1,7 @@
 {
+  "project_panel": {
+    "auto_fold_dirs": false
+  },
   "tab_size": 2,
   "telemetry": { "diagnostics": false, "metrics": false },
   "features": { "copilot": false },
