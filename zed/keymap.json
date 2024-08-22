@@ -21,9 +21,20 @@
       "ctrl-space": "editor::Hover",
       "n": "search::SelectNextMatch",
       "shift-n": "search::SelectPrevMatch",
-      "space t": "workspace::NewCenterTerminal",
       "ctrl-;": "editor::ToggleComments",
       "space c": "pane::CloseActiveItem"
+    }
+  },
+  {
+    "context": "Terminal",
+    "bindings": {
+      "ctrl-l": ["terminal::SendKeystroke", "ctrl-l"]
+    }
+  },
+  {
+    "context": "Workspace || Editor || Terminal",
+    "bindings": {
+      "ctrl-'": "workspace::ToggleBottomDock"
     }
   }
 ]
